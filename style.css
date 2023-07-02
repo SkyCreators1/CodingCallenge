@@ -1,0 +1,46 @@
+body{
+    background-image: url(file:///Users/davideciraudo/Desktop/Boolean/background.jpg);
+    background-size: 1450px;
+    font-family: sans-serif;
+    
+    
+}
+
+header{
+    color: white;
+    height: 30%;
+    width: 60%;
+    
+    font-size: 13px;
+    
+}
+img{
+    width: 200px;
+    
+}
+
+nav{
+    text-align: center;
+    color: lime;
+}
+
+.Button-color{
+    background-color: lime;
+    width: 800px;
+    display: inline-block;
+    height: 35px;
+    text-align: -webkit-center;
+    padding-top: 12px;
+
+ 
+}
+
+main{
+    background: rgba(0, 0, 0, 0.6);
+    margin-left: 260px;
+    margin-right: 230px;
+    margin-top: 50px;
+    padding: 50px;
+    border-bottom: 50px;  
+}
+
